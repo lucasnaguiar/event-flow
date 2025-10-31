@@ -1,5 +1,5 @@
 # event-flow
 
-Alunos: 
-    Lucas Aguiar
-    Samuel Feijó
+## Alunos: 
+###    Lucas Aguiar
+###    Samuel Feijó
